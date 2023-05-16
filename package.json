@@ -1,0 +1,24 @@
+{
+    "name": "hello-world-javascript-action",
+    "version": "1.0.0",
+    "description": "this action prists hello world",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\ && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/actions/hello-world-javascript-action.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/actions/hello-world-javascript-action.git/issues"
+    },
+    "homepage": "https://github.com/actions/hello-world-javascript-action.git#readme",
+    "devDependencies": {
+        "@actions/core": "1.1.0",
+        "@actions/github": "^1.1.0"
+    }
+}
